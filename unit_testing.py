@@ -1,4 +1,4 @@
-from m1 import is_prime
+from Prime_Number_calculator import is_prime
 
 
 def test_prime_11():
